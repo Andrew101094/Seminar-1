@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\Задача2\\Задача2.csproj",
-      "projectName": "Задача2",
-      "projectPath": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\Задача2\\Задача2.csproj",
+      "projectUniqueName": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\С#.csproj",
+      "projectName": "С#",
+      "projectPath": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\С#.csproj",
       "packagesPath": "C:\\Users\\gosco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\Задача2\\obj\\",
+      "outputPath": "C:\\Users\\gosco\\OneDrive\\Рабочий стол\\Учеба\\С#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gosco\\AppData\\Roaming\\NuGet\\NuGet.Config"
